@@ -1,0 +1,12 @@
+# Ignore sensitive informations (api keys, db credentials...)
+.env
+
+# Ignore Python bytecode
+__pycache__/
+
+# Ignore Redis database dump
+dump.rdb
+
+README.md
+
+.venv
